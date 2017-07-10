@@ -1,0 +1,48 @@
+
+body {
+    background-image: url(images/brazil.jpg);
+}
+
+section {
+    background-color: aliceblue;
+}
+
+.pagehead {
+    margin-top: 0px;
+    background-color: coral;
+}
+
+p {
+    font-family: 'Roboto', serif;
+}
+
+.attribute {
+    font-size: 75%;
+}
+
+article {
+    font-family: 'Roboto', serif;
+}
+
+header {
+    font-family: 'Dynalight', cursive;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+.intro {
+    margin-top: 10px;
+}
+
+.img-thumbnail {
+    float: left;
+    margin-right: 20px;
+}
+
+.cont {
+    margin: 10px 0 20px 0;
+}
+
+footer {
+    font-family: 'Roboto', serif;
+    background-color: coral;
+}
