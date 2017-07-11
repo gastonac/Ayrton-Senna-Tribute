@@ -2,13 +2,17 @@ body {
     background-image: url(images/brazil.jpg);
 }
 
+.image {
+    background-color : transparent;
+}
+
 section {
     background-color: aliceblue;
 }
 
 .pagehead {
     margin-top: 0px;
-    background-color: coral;
+    background-color: transparent;
 }
 
 p {
@@ -43,5 +47,5 @@ header {
 
 footer {
     font-family: 'Roboto', serif;
-    background-color: coral;
+    background-color: transparent;
 }
