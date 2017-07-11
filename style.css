@@ -7,7 +7,7 @@ body {
 }
 
 section {
-    background-color: aliceblue;
+    background-color: #E6E6FA;
 }
 
 .pagehead {
@@ -39,6 +39,8 @@ header {
 .img-thumbnail {
     float: left;
     margin-right: 20px;
+    padding: 0px;
+    border: none;
 }
 
 .cont {
