@@ -3,6 +3,10 @@
     .img-thumbnail {
     margin-bottom: 0.625em;
   }
+    
+    .cont {
+    margin-bottom: 0;
+}
 }
 
 body {
