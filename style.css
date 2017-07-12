@@ -6,6 +6,11 @@ body {
     background-color : transparent;
 }
 
+.portait {
+    max-width: 100%;
+    height: auto;
+}
+
 section {
     background-color: #E6E6FA;
 }
@@ -41,6 +46,8 @@ header {
     margin-right: 20px;
     padding: 0px;
     border: none;
+    max-width: 100%;
+    height: auto;
 }
 
 .cont {
