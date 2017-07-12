@@ -1,3 +1,10 @@
+/* below 780px 48.75em */
+@media screen and (max-width: 48.75em) {
+    .img-thumbnail {
+    margin-bottom: 0.625em;
+  }
+}
+
 body {
     background-image: url(images/brazil.jpg);
 }
