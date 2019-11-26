@@ -50,6 +50,11 @@ header {
     height: auto;
 }
 
+.cars {
+    width: 250px;
+    height: 160px;
+}
+
 .cont {
     margin: 10px 0 20px 0;
 }
